@@ -2,7 +2,5 @@
   "site": "https://vexvpn.app",
   "cabinet": "https://app.vexvpn.app",
   "config": "https://sub.vexvpn.app",
-  "app_api": "https://api.vexvpn.app",
-  "app_config": "https://cfg.vexvpn.app",
-  "app_cabinet": "https://my.vexvpn.app"
+  "support": "https://t.me/vexvpn_app_support"
 }
