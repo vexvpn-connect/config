@@ -1,8 +1,6 @@
 {
   "version": 1,
-  "subscriptions": { "domains": ["sub.vexvpn.app"] },
-  "links": {
-    "cabinet": "https://my.vexvpn.app",
-    "support": "https://t.me/vexvpn_app_support"
+  "subscriptions": {
+    "filters": ["vexvpn"]
   }
 }
