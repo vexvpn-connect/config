@@ -1,0 +1,3672 @@
+{
+  "schemaVersion": 1,
+  "release": "202610010125",
+  "distribution": "complete-unmodified-assets",
+  "files": {
+    "geoip.dat": {
+      "size": 16514644,
+      "sha256": "3e21484fe4b72d788439e6f16a29bf7967892dd9e82f17e087608837cb260639",
+      "categoryCount": 260,
+      "categoryRecordCounts": {
+        "ad": 369,
+        "ae": 6253,
+        "af": 707,
+        "ag": 264,
+        "ai": 139,
+        "al": 1512,
+        "am": 787,
+        "ao": 569,
+        "aq": 799,
+        "ar": 5616,
+        "as": 435,
+        "at": 6931,
+        "au": 18912,
+        "aw": 157,
+        "ax": 167,
+        "az": 663,
+        "ba": 452,
+        "bb": 276,
+        "bd": 4663,
+        "be": 7381,
+        "bf": 238,
+        "bg": 3199,
+        "bh": 451,
+        "bi": 128,
+        "bj": 183,
+        "bl": 104,
+        "bm": 429,
+        "bn": 188,
+        "bo": 584,
+        "bq": 111,
+        "br": 23664,
+        "bs": 275,
+        "bt": 251,
+        "bv": 38,
+        "bw": 226,
+        "by": 762,
+        "bz": 302,
+        "ca": 26508,
+        "cc": 39,
+        "cd": 368,
+        "cf": 116,
+        "cg": 169,
+        "ch": 11820,
+        "ci": 462,
+        "ck": 112,
+        "cl": 9565,
+        "cloudflare": 722,
+        "cloudfront": 211,
+        "cm": 275,
+        "cn": 9621,
+        "co": 3953,
+        "cr": 911,
+        "cu": 173,
+        "cv": 170,
+        "cw": 202,
+        "cx": 72,
+        "cy": 1468,
+        "cz": 5698,
+        "de": 72076,
+        "dj": 147,
+        "dk": 5022,
+        "dm": 164,
+        "do": 1071,
+        "dz": 392,
+        "ec": 1402,
+        "ee": 1690,
+        "eg": 953,
+        "eh": 43,
+        "er": 119,
+        "es": 14498,
+        "et": 179,
+        "facebook": 118,
+        "fastly": 90,
+        "fi": 46944,
+        "fj": 203,
+        "fk": 92,
+        "fm": 147,
+        "fo": 108,
+        "fr": 40050,
+        "ga": 146,
+        "gb": 50114,
+        "gd": 189,
+        "ge": 751,
+        "gf": 173,
+        "gg": 171,
+        "gh": 560,
+        "gi": 223,
+        "gl": 246,
+        "gm": 155,
+        "gn": 150,
+        "google": 8468,
+        "gp": 299,
+        "gq": 119,
+        "gr": 2537,
+        "gs": 30,
+        "gt": 738,
+        "gu": 370,
+        "gw": 125,
+        "gy": 146,
+        "hk": 16091,
+        "hm": 36,
+        "hn": 594,
+        "hr": 1112,
+        "ht": 200,
+        "hu": 2885,
+        "id": 10856,
+        "ie": 8778,
+        "il": 4091,
+        "im": 344,
+        "in": 20770,
+        "io": 99,
+        "iq": 1584,
+        "ir": 2776,
+        "is": 725,
+        "it": 13471,
+        "je": 219,
+        "jm": 360,
+        "jo": 588,
+        "jp": 17385,
+        "ke": 1257,
+        "kg": 424,
+        "kh": 730,
+        "ki": 179,
+        "km": 111,
+        "kn": 161,
+        "kp": 545,
+        "kr": 5468,
+        "kw": 1112,
+        "ky": 245,
+        "kz": 2308,
+        "la": 272,
+        "lb": 614,
+        "lc": 176,
+        "li": 480,
+        "lk": 453,
+        "lr": 168,
+        "ls": 142,
+        "lt": 5309,
+        "lu": 2048,
+        "lv": 1829,
+        "ly": 222,
+        "ma": 681,
+        "mc": 314,
+        "md": 2782,
+        "me": 238,
+        "mf": 135,
+        "mg": 180,
+        "mh": 117,
+        "mk": 379,
+        "ml": 140,
+        "mm": 767,
+        "mn": 495,
+        "mo": 742,
+        "mp": 107,
+        "mq": 267,
+        "mr": 143,
+        "ms": 89,
+        "mt": 414,
+        "mu": 636,
+        "mv": 235,
+        "mw": 217,
+        "mx": 6084,
+        "my": 3817,
+        "mz": 261,
+        "na": 218,
+        "nc": 179,
+        "ne": 135,
+        "netflix": 122,
+        "nf": 104,
+        "ng": 1613,
+        "ni": 286,
+        "nl": 77374,
+        "no": 4290,
+        "np": 736,
+        "nr": 110,
+        "nu": 93,
+        "nz": 3803,
+        "om": 611,
+        "pa": 1017,
+        "pe": 1868,
+        "pf": 224,
+        "pg": 350,
+        "ph": 3247,
+        "pk": 2007,
+        "pl": 12005,
+        "pm": 119,
+        "pn": 36,
+        "pr": 1027,
+        "private": 18,
+        "ps": 457,
+        "pt": 3235,
+        "pw": 108,
+        "py": 671,
+        "qa": 698,
+        "re": 301,
+        "ro": 5341,
+        "rs": 1407,
+        "ru": 25094,
+        "rw": 196,
+        "sa": 2529,
+        "sb": 118,
+        "sc": 4901,
+        "sd": 193,
+        "se": 14108,
+        "sg": 13913,
+        "sh": 34,
+        "si": 1523,
+        "sj": 43,
+        "sk": 1736,
+        "sl": 167,
+        "sm": 160,
+        "sn": 223,
+        "so": 189,
+        "sr": 140,
+        "ss": 174,
+        "st": 115,
+        "sv": 445,
+        "sx": 107,
+        "sy": 409,
+        "sz": 146,
+        "tc": 125,
+        "td": 164,
+        "telegram": 12,
+        "tf": 22,
+        "tg": 143,
+        "th": 4235,
+        "tj": 256,
+        "tk": 101,
+        "tl": 170,
+        "tm": 150,
+        "tn": 309,
+        "to": 117,
+        "tor": 833,
+        "tr": 6008,
+        "tt": 282,
+        "tv": 103,
+        "tw": 4834,
+        "twitter": 19,
+        "tz": 521,
+        "ua": 7847,
+        "ug": 364,
+        "um": 88,
+        "us": 264413,
+        "uy": 426,
+        "uz": 756,
+        "va": 110,
+        "vc": 138,
+        "ve": 1563,
+        "vg": 580,
+        "vi": 274,
+        "vn": 3822,
+        "vu": 288,
+        "wf": 90,
+        "ws": 139,
+        "xk": 99,
+        "ye": 214,
+        "yt": 117,
+        "za": 5670,
+        "zm": 264,
+        "zw": 327
+      },
+      "categoryAttributeSets": {},
+      "totalRecordCount": 1054961,
+      "requiredRecordCount": 25112,
+      "requiredCategories": {
+        "private": {
+          "recordCount": 18,
+          "encodedEntryBytes": 237,
+          "ipv4": 14,
+          "ipv6": 4
+        },
+        "ru": {
+          "recordCount": 25094,
+          "encodedEntryBytes": 396744,
+          "ipv4": 12944,
+          "ipv6": 12150
+        }
+      },
+      "largestCategories": [
+        {
+          "code": "us",
+          "recordCount": 264413
+        },
+        {
+          "code": "nl",
+          "recordCount": 77374
+        },
+        {
+          "code": "de",
+          "recordCount": 72076
+        },
+        {
+          "code": "gb",
+          "recordCount": 50114
+        },
+        {
+          "code": "fi",
+          "recordCount": 46944
+        },
+        {
+          "code": "fr",
+          "recordCount": 40050
+        },
+        {
+          "code": "ca",
+          "recordCount": 26508
+        },
+        {
+          "code": "ru",
+          "recordCount": 25094
+        },
+        {
+          "code": "br",
+          "recordCount": 23664
+        },
+        {
+          "code": "in",
+          "recordCount": 20770
+        }
+      ]
+    },
+    "geosite.dat": {
+      "size": 10984134,
+      "sha256": "ff2daae83265b9892a0cab7a7a6a8ac3d7ed29e34527511f795e3322c9122671",
+      "categoryCount": 1549,
+      "categoryRecordCounts": {
+        "0x0": 1,
+        "115": 14,
+        "1337x": 10,
+        "17zuoye": 3,
+        "18comic": 51,
+        "2ch": 4,
+        "2gis": 14,
+        "2kgames": 6,
+        "36kr": 6,
+        "4399": 63,
+        "4chan": 3,
+        "4pda": 1,
+        "4plebs": 2,
+        "51job": 5,
+        "54647": 4,
+        "58tongcheng": 42,
+        "5ch": 3,
+        "6park": 7,
+        "7tv": 2,
+        "800best": 29,
+        "8btc": 5,
+        "928plus": 2,
+        "9news": 14,
+        "9to5": 7,
+        "aamgame": 5,
+        "abc": 4,
+        "abema": 21,
+        "accuweather": 2,
+        "acer": 3,
+        "acfun": 8,
+        "actalis": 2,
+        "activision": 21,
+        "activision-blizzard": 52,
+        "adblock": 2,
+        "adblockplus": 1,
+        "addthis": 3,
+        "addtoany": 1,
+        "adguard": 19,
+        "adidas": 90,
+        "adjust": 4,
+        "adobe": 260,
+        "adobe-activation": 134,
+        "aerogard": 3,
+        "afdian": 4,
+        "afp": 2,
+        "agilebits": 14,
+        "agora": 3,
+        "aiqicha": 3,
+        "airbnb": 83,
+        "airchina": 40,
+        "airwick": 40,
+        "aisiku": 14,
+        "aixcoder": 2,
+        "akamai": 81,
+        "akiko": 3,
+        "alibaba": 463,
+        "alibabacloud": 12,
+        "aligames": 5,
+        "aliyun": 88,
+        "aliyun-drive": 6,
+        "aljazeera": 7,
+        "alphabet": 1087,
+        "amap": 16,
+        "amazon": 249,
+        "amazontrust": 3,
+        "amc": 5,
+        "amd": 6,
+        "amp": 6,
+        "amplitude": 22,
+        "anaconda": 4,
+        "anandtech": 1,
+        "android": 4,
+        "anexia": 33,
+        "anime": 21,
+        "anker": 12,
+        "annas-archive": 8,
+        "anon-v": 2,
+        "anthropic": 8,
+        "ap": 2,
+        "apa": 2,
+        "aparat": 3,
+        "apifox": 2,
+        "apipost": 2,
+        "apkcombo": 1,
+        "apkmirror": 2,
+        "apkpure": 6,
+        "apple": 1792,
+        "apple-cn": 165,
+        "apple-dev": 47,
+        "apple-intelligence": 5,
+        "apple-music": 18,
+        "apple-pki": 8,
+        "apple-podcasts": 4,
+        "apple-tvplus": 8,
+        "apple-update": 21,
+        "appledaily": 32,
+        "applysquare": 2,
+        "aptoide": 1,
+        "archive": 18,
+        "archiveofourown": 4,
+        "archivetoday": 7,
+        "archlinux": 6,
+        "arphic": 4,
+        "artstation": 2,
+        "asahi": 7,
+        "askdiandian": 2,
+        "asobo": 3,
+        "asproex": 2,
+        "asus": 4,
+        "atlassian": 11,
+        "att": 135,
+        "attwatchtv": 5,
+        "autodesk": 558,
+        "autoru": 5,
+        "auxgroup": 31,
+        "avaxhome": 7,
+        "aviasales": 3,
+        "avito": 3,
+        "avmoo": 3,
+        "awempire": 5,
+        "aws": 80,
+        "aws-cn": 28,
+        "azure": 151,
+        "b3log": 4,
+        "bahamut": 5,
+        "baidu": 132,
+        "baishancloud": 3,
+        "baltamatica": 4,
+        "bamtech": 3,
+        "bandcamp": 2,
+        "bandwagonhost": 7,
+        "bangumi": 3,
+        "barrons": 4,
+        "bbc": 28,
+        "bdsmhub": 2,
+        "beats": 716,
+        "beget": 2,
+        "beisen": 8,
+        "bestbuy": 82,
+        "bestchange": 3,
+        "bestore": 3,
+        "bestv": 7,
+        "betboom": 2,
+        "bethesda": 6,
+        "betterexplained": 1,
+        "bilibili": 53,
+        "bilibili-cdn": 14,
+        "bilibili-game": 6,
+        "bilibili2": 4,
+        "binance": 45,
+        "bing": 40,
+        "bitauto": 5,
+        "bitflyer": 2,
+        "bitly": 3,
+        "bitsquare": 3,
+        "bitwarden": 5,
+        "bjyouth": 4,
+        "blender": 3,
+        "blizzard": 25,
+        "blogspot": 76,
+        "bloomberg": 61,
+        "bluearchive": 3,
+        "bluepoch": 2,
+        "bluepoch-games": 1,
+        "bluesky": 3,
+        "blurams": 2,
+        "bmw": 729,
+        "boboporn": 4,
+        "boc": 20,
+        "bohemia": 9,
+        "bongacams": 5,
+        "booking": 3,
+        "books": 2,
+        "boomerang": 2,
+        "bootcdn": 4,
+        "bootstrap": 2,
+        "borneoschematics": 5,
+        "boslife": 2,
+        "boxun": 2,
+        "boylove": 5,
+        "braveux": 6,
+        "brazzers": 5,
+        "bridgestone": 98,
+        "brightcove": 14,
+        "brilliant": 1,
+        "broadcom": 105,
+        "btdig": 1,
+        "bttzyw": 4,
+        "bushiroad": 32,
+        "buymeacoffee": 2,
+        "buypass": 5,
+        "bybit": 16,
+        "bytedance": 955,
+        "bytedance-ai-!cn": 7,
+        "c-span": 2,
+        "cabletv": 5,
+        "cainiao": 10,
+        "calgoncarbon": 19,
+        "cambridge": 6,
+        "camwhores": 2,
+        "canon": 71,
+        "canonical": 12,
+        "canva": 6,
+        "capitalonline": 2,
+        "carrotquest": 23,
+        "cas": 3,
+        "casimages": 1,
+        "catchplay": 2,
+        "category-acg": 9,
+        "category-ads": 851,
+        "category-ads-all": 186154,
+        "category-ads-ir": 7,
+        "category-ai-!cn": 188,
+        "category-ai-chat-!cn": 188,
+        "category-ai-cn": 115,
+        "category-ai-ru": 12,
+        "category-android-app-download": 11,
+        "category-anticensorship": 125,
+        "category-antivirus": 166,
+        "category-automobile-cn": 39,
+        "category-bank-cn": 55,
+        "category-bank-ir": 32,
+        "category-bank-jp": 84,
+        "category-bank-mm": 30,
+        "category-bank-ru": 313,
+        "category-betting-ru": 13,
+        "category-blog-cn": 25,
+        "category-bourse-ir": 48,
+        "category-browser-!cn": 36,
+        "category-cas": 257,
+        "category-cdn-!cn": 195,
+        "category-cdn-cn": 93,
+        "category-collaborate-cn": 26,
+        "category-communication": 151,
+        "category-companies": 8618,
+        "category-consent-management": 14,
+        "category-container": 10,
+        "category-cryptocurrency": 235,
+        "category-ddns": 111,
+        "category-dev": 665,
+        "category-dev-cn": 134,
+        "category-documents-cn": 23,
+        "category-doh": 127,
+        "category-ecommerce": 1318,
+        "category-ecommerce-ru": 199,
+        "category-education-cn": 196,
+        "category-education-ir": 10,
+        "category-education-ru": 19,
+        "category-electronic-cn": 87,
+        "category-emby": 90,
+        "category-enhance-gaming": 18,
+        "category-enterprise-query-platform-cn": 13,
+        "category-entertainment": 2139,
+        "category-entertainment-cn": 797,
+        "category-entertainment-ru": 31,
+        "category-finance": 615,
+        "category-food-cn": 62,
+        "category-forums": 110,
+        "category-forums-ir": 2,
+        "category-forums-ru": 10,
+        "category-game-accelerator-cn": 45,
+        "category-game-platforms-download": 492,
+        "category-games": 1127,
+        "category-games-!cn": 862,
+        "category-games-cn": 265,
+        "category-gov-ir": 29,
+        "category-gov-ru": 142,
+        "category-hospital-cn": 11,
+        "category-httpdns-cn": 50,
+        "category-insurance-ir": 19,
+        "category-ip-geo-detect": 238,
+        "category-ipfs": 21,
+        "category-ir": 190,
+        "category-logistics-cn": 158,
+        "category-media": 1580,
+        "category-media-cn": 439,
+        "category-media-ir": 28,
+        "category-media-ru": 141,
+        "category-media-ru-blocked": 131,
+        "category-medicine-ru": 34,
+        "category-mobile-repair": 9,
+        "category-mooc-cn": 11,
+        "category-netdisk-!cn": 46,
+        "category-netdisk-cn": 91,
+        "category-network-security-cn": 5,
+        "category-news-ir": 55,
+        "category-novel": 3,
+        "category-ntp": 116,
+        "category-ntp-cn": 23,
+        "category-ntp-jp": 28,
+        "category-number-verification-cn": 7,
+        "category-olympiad-in-informatics": 18,
+        "category-orgs": 131,
+        "category-outsource-cn": 1,
+        "category-password-management": 31,
+        "category-payment-ir": 17,
+        "category-porn": 6660,
+        "category-proxy-tunnels": 16,
+        "category-pt": 126,
+        "category-public-tracker": 437,
+        "category-remote-control": 8,
+        "category-retail-ru": 82,
+        "category-ru": 1105,
+        "category-scholar-!cn": 476,
+        "category-scholar-cn": 94,
+        "category-scholar-hk": 32,
+        "category-scholar-ir": 8,
+        "category-scholar-uk": 38,
+        "category-securities-cn": 164,
+        "category-shopping-ir": 15,
+        "category-social-media-!cn": 627,
+        "category-social-media-cn": 54,
+        "category-social-media-ir": 11,
+        "category-speedtest": 77,
+        "category-stun": 359,
+        "category-tech-ir": 45,
+        "category-tech-media": 26,
+        "category-tech-media-ru": 34,
+        "category-tm": 72,
+        "category-travel-ir": 7,
+        "category-travel-ru": 25,
+        "category-urlshortner": 5,
+        "category-voip": 9,
+        "category-vpnservices": 69,
+        "category-web-archive": 18,
+        "category-wiki-cn": 16,
+        "cavporn": 3,
+        "cbs": 29,
+        "ccb": 16,
+        "cctv": 44,
+        "cdek": 3,
+        "cdn77": 2,
+        "ceno": 2,
+        "cerebras": 1,
+        "cern": 7,
+        "certinomis": 2,
+        "certum": 3,
+        "changyou": 7,
+        "chaoxing": 33,
+        "chatango": 1,
+        "chatwhores": 5,
+        "cheetahmobile": 11,
+        "chegg": 2,
+        "chesscom": 2,
+        "china-list": 110619,
+        "chinabroadnet": 8,
+        "chinamobile": 35,
+        "chinanews": 9,
+        "chinapost": 19,
+        "chinapower": 1,
+        "chinaso": 2,
+        "chinatelecom": 20,
+        "chinatower": 5,
+        "chinaunicom": 25,
+        "chinaz": 2,
+        "cian": 7,
+        "cisco": 121,
+        "citic": 17,
+        "citizenlab": 2,
+        "cityu-hk": 4,
+        "ciweimao": 3,
+        "ck101": 3,
+        "clarivate": 5,
+        "clearasil": 3,
+        "clearbit": 3,
+        "clips4sale": 3,
+        "cloudcone": 4,
+        "cloudconvert": 1,
+        "cloudflare": 76,
+        "cloudflare-cn": 19,
+        "cloudflare-ipfs": 2,
+        "cloudinary": 2,
+        "cloudns": 2,
+        "clubhouse": 3,
+        "cmb": 22,
+        "cn": 111361,
+        "cnb": 2,
+        "cnbc": 4,
+        "cnbeta": 3,
+        "cnblogs": 8,
+        "cnet": 5,
+        "cnki": 3,
+        "cnn": 9,
+        "code": 1,
+        "codeberg": 2,
+        "codecademy": 1,
+        "codeforces": 1,
+        "coding": 2,
+        "coinone": 3,
+        "collabora": 4,
+        "colorfulclouds": 6,
+        "comfy": 4,
+        "comfy-ui-launcher": 1,
+        "comodo": 2,
+        "comssone": 9,
+        "connectivity-check": 28,
+        "contentful": 2,
+        "coolapk": 3,
+        "coomer": 3,
+        "copymanga": 7,
+        "corel": 5,
+        "costco": 3,
+        "coupang": 2,
+        "coursera": 4,
+        "cowlevel": 2,
+        "cowtransfer": 3,
+        "craigslist": 1,
+        "creativecommons": 4,
+        "csdn": 16,
+        "csis": 2,
+        "ctexcel": 5,
+        "ctrip": 44,
+        "ctyun": 67,
+        "cuhk": 8,
+        "cuinc": 2,
+        "curseforge": 2,
+        "cursor": 4,
+        "cuttly": 1,
+        "cybertrust": 2,
+        "cygames": 5,
+        "cylink": 2,
+        "dailymail": 17,
+        "dailymotion": 3,
+        "dandanplay": 2,
+        "dandanzan": 2,
+        "dangdang": 2,
+        "dart": 3,
+        "dazn": 8,
+        "dcard": 4,
+        "ddmaicai": 9,
+        "debian": 2,
+        "decryptipastore": 1,
+        "dedao": 10,
+        "deepin": 15,
+        "deepseek": 2,
+        "deezer": 2,
+        "dell": 210,
+        "demonoid": 1,
+        "deppon": 3,
+        "deribit": 2,
+        "dettol": 35,
+        "deviantart": 3,
+        "dewu": 45,
+        "didi": 12,
+        "digicert": 74,
+        "digitalocean": 6,
+        "digitalplayground": 2,
+        "dingdatech": 5,
+        "dingtalk": 11,
+        "discord": 28,
+        "discourse": 3,
+        "discoveryplus": 3,
+        "discuz": 3,
+        "disney": 225,
+        "disqus": 4,
+        "divar": 3,
+        "dji": 10,
+        "dlercloud": 4,
+        "dlsite": 10,
+        "dmit": 2,
+        "dmm": 17,
+        "dmm-porn": 2,
+        "dnspod": 14,
+        "docker": 6,
+        "doi": 2,
+        "dola": 4,
+        "dongchedi": 8,
+        "dongjiao": 4,
+        "douban": 3,
+        "doubao": 32,
+        "douyin": 71,
+        "douyu": 7,
+        "dowjones": 4,
+        "dribbble": 2,
+        "dropbox": 16,
+        "drweb": 12,
+        "dslreports": 3,
+        "duckduckgo": 44,
+        "duitang": 2,
+        "duolingo": 5,
+        "duowan": 2,
+        "durex": 62,
+        "duyaoss": 2,
+        "dw": 2,
+        "dwion": 14,
+        "dyna": 5,
+        "dynu": 21,
+        "dzen": 4,
+        "ea": 165,
+        "eastmoney": 8,
+        "easylist": 2,
+        "ebay": 363,
+        "ebuyer": 1,
+        "economist": 4,
+        "eduhk": 8,
+        "edx": 2,
+        "egghead": 1,
+        "ehentai": 8,
+        "electron": 1,
+        "eleme": 12,
+        "elevenlabs": 2,
+        "elsevier": 14,
+        "embark": 4,
+        "embedly": 3,
+        "embl": 7,
+        "emojipedia": 4,
+        "eneba": 2,
+        "enfa": 31,
+        "entermediadb": 2,
+        "entrust": 10,
+        "envato": 4,
+        "envybox": 21,
+        "epicbrowser": 1,
+        "epicgames": 33,
+        "epochmediagroup": 68,
+        "erolabs": 13,
+        "escapefromtarkov": 3,
+        "eset": 9,
+        "espn": 11,
+        "espressif": 7,
+        "esri": 3,
+        "ethereum": 4,
+        "everbright": 15,
+        "evernote": 1,
+        "f-droid": 4,
+        "facebook": 397,
+        "facebook-dev": 44,
+        "faceit": 2,
+        "falungong": 131,
+        "familymart": 7,
+        "fandom": 12,
+        "fans66": 2,
+        "fansta": 5,
+        "farfetch": 8,
+        "faronics": 18,
+        "fastlane": 2,
+        "fastly": 7,
+        "faststone": 1,
+        "fcbox": 2,
+        "fedora": 6,
+        "feedly": 1,
+        "feishu": 43,
+        "fengxing": 7,
+        "fflogs": 3,
+        "fibank": 3,
+        "ficbook": 6,
+        "figma": 1,
+        "filimo": 2,
+        "finish": 41,
+        "firebase": 23,
+        "firefox": 8,
+        "flatpak": 2,
+        "flibusta": 2,
+        "flickr": 5,
+        "flowus": 2,
+        "flowwow": 2,
+        "flutter": 3,
+        "flyio": 3,
+        "focuschina": 5,
+        "fonbet": 4,
+        "fontawesome": 2,
+        "fontexplorer": 1,
+        "fonts": 2,
+        "fontshop": 4,
+        "fontsinuse": 1,
+        "forbes": 2,
+        "formula1": 3,
+        "forza": 5,
+        "fox": 245,
+        "fqnovel": 47,
+        "framer": 5,
+        "freebuff": 2,
+        "freecodecamp": 1,
+        "freenode": 1,
+        "ft": 22,
+        "ftv": 3,
+        "funpay": 3,
+        "futu": 21,
+        "fzdm": 2,
+        "gaijin": 13,
+        "gamersky": 6,
+        "gamesplanet": 3,
+        "gandi": 1,
+        "ganji": 4,
+        "gannett": 5,
+        "garena": 16,
+        "gateio": 8,
+        "geetest": 2,
+        "gemfury": 6,
+        "genotek-ru": 9,
+        "geolocation-!cn": 27259,
+        "geolocation-cn": 5388,
+        "gettyimages": 25,
+        "getui": 7,
+        "gfw": 4372,
+        "gfycat": 1,
+        "ggsel": 2,
+        "giffgaff": 2,
+        "gigabyte": 7,
+        "gimy": 4,
+        "gismeteo": 7,
+        "gitbook": 2,
+        "gitee": 2,
+        "github": 64,
+        "github-copilot": 6,
+        "github1s": 2,
+        "gitlab": 5,
+        "gitv": 2,
+        "globalsign": 21,
+        "globalvoices": 2,
+        "globo": 40,
+        "glyphs": 1,
+        "gmo-internet": 145,
+        "godaddy": 5,
+        "gofundme": 1,
+        "gog": 8,
+        "golang": 8,
+        "goodreads": 2,
+        "google": 1077,
+        "google-cn": 112,
+        "google-deepmind": 46,
+        "google-gemini": 46,
+        "google-play": 10,
+        "google-registry": 13,
+        "google-registry-tld": 20,
+        "google-scholar": 76,
+        "google-trust-services": 12,
+        "googlefcm": 12,
+        "goproxy": 2,
+        "gracg": 2,
+        "grapheneos": 16,
+        "gravatar": 1,
+        "greatfire": 10,
+        "gree": 7,
+        "groq": 1,
+        "group-ib": 30,
+        "growingio": 6,
+        "gucci": 7,
+        "guo": 21,
+        "guokr": 2,
+        "habr": 2,
+        "haier": 4,
+        "hainanairlines": 4,
+        "haitang": 17,
+        "hamivideo": 19,
+        "hanyi": 7,
+        "harpercollins": 20,
+        "hashicorp": 8,
+        "haskell": 3,
+        "haveibeenpwned": 2,
+        "hbo": 65,
+        "hcaptcha": 3,
+        "hdrezka": 11,
+        "headhunter": 8,
+        "hentaichen": 6,
+        "hentaivn": 4,
+        "herogame": 5,
+        "heroku": 12,
+        "hetzner": 15,
+        "heyzo": 2,
+        "hikvision": 8,
+        "hinet": 6,
+        "hinet-eca": 5,
+        "hisense": 6,
+        "hitun": 2,
+        "hkbn": 6,
+        "hkbu": 8,
+        "hkedcity": 3,
+        "hketgroup": 13,
+        "hkgolden": 2,
+        "hkt": 12,
+        "hku": 4,
+        "hkust": 4,
+        "hm": 2,
+        "homebrew": 2,
+        "homedepot": 2,
+        "hongkongpost": 2,
+        "honor": 8,
+        "hooligapps": 8,
+        "hotstar": 6,
+        "hoyoverse": 9,
+        "hp": 158,
+        "hpe": 16,
+        "hsbc": 48,
+        "hsbc-cn": 3,
+        "huanghuagang": 1,
+        "huawei": 345,
+        "huawei-dev": 23,
+        "huaweicloud": 291,
+        "hubblephone": 2,
+        "huffpost": 18,
+        "hugecore": 3,
+        "huggingface": 3,
+        "hujiang": 5,
+        "hulu": 48,
+        "humblebundle": 2,
+        "hunantv": 13,
+        "huobi": 10,
+        "hupu": 4,
+        "hupun": 5,
+        "hurricaneelectric": 1,
+        "huya": 2,
+        "ibkr": 21,
+        "ibm": 20,
+        "icable": 6,
+        "icbc": 58,
+        "icloud": 53,
+        "icloudprivaterelay": 3,
+        "ideco-ru": 3,
+        "identrust": 3,
+        "idg": 8,
+        "ieee": 54,
+        "ifanr": 7,
+        "ifast": 14,
+        "iflytek": 11,
+        "ihuman": 2,
+        "iina": 1,
+        "ikea": 95,
+        "illgames": 2,
+        "illusion": 2,
+        "illusion-nonofficial": 29,
+        "imagebam": 1,
+        "imagecurl": 3,
+        "imageshack": 2,
+        "imagetwist": 1,
+        "imdb": 5,
+        "imgbb": 3,
+        "imgix": 2,
+        "imgur": 3,
+        "imperialcollege": 4,
+        "infowars": 3,
+        "infrapedia": 1,
+        "inoreader": 1,
+        "inshot": 3,
+        "insider": 16,
+        "instagram": 74,
+        "intel": 287,
+        "intel-dev": 17,
+        "intercom": 4,
+        "internet-archive": 3,
+        "intsig": 5,
+        "intuit": 35,
+        "ipip": 2,
+        "iqiyi": 20,
+        "isgd": 2,
+        "ishumei": 10,
+        "itchio": 2,
+        "itiger": 9,
+        "itunes": 98,
+        "ixbt": 9,
+        "ixsystems": 2,
+        "iyf": 2,
+        "jable": 3,
+        "japonx": 4,
+        "java": 3,
+        "javbus": 3,
+        "javcc": 2,
+        "javdb": 5,
+        "javwide": 2,
+        "jd": 255,
+        "jetbrains": 24,
+        "jetbrains-ai": 3,
+        "jfrog": 4,
+        "jianshu": 3,
+        "jibencaozuo": 3,
+        "jiemian": 8,
+        "jiguang": 18,
+        "jinshuju": 3,
+        "jiyukobo": 1,
+        "jkf": 5,
+        "jlc": 43,
+        "johren": 2,
+        "jquery": 3,
+        "jsdelivr": 3,
+        "jtexpress": 22,
+        "juejin": 12,
+        "jushuitan": 24,
+        "justav": 3,
+        "justmysocks": 4,
+        "jutongbao": 3,
+        "jwplayer": 6,
+        "kaggle": 4,
+        "kakao": 57,
+        "kanzhongguo": 16,
+        "kaspersky": 132,
+        "kechuang": 2,
+        "keep": 5,
+        "kemono": 3,
+        "kernel": 1,
+        "keybase": 2,
+        "khanacademy": 2,
+        "kick": 1,
+        "kindle": 20,
+        "kindle4rss": 1,
+        "kingkonglive": 2,
+        "kingsoft": 45,
+        "kinopoisk": 2,
+        "kinopub": 18,
+        "kkbox": 5,
+        "kktv": 3,
+        "kodi": 2,
+        "kodik": 5,
+        "konachan": 2,
+        "konami": 19,
+        "kontur": 5,
+        "koolearn": 3,
+        "kraken": 2,
+        "ku6": 3,
+        "kuaidi100": 4,
+        "kuaikan": 3,
+        "kuaishou": 40,
+        "kuaiyikeji": 3,
+        "kubakuba": 2,
+        "kubernetes": 2,
+        "kucoin": 2,
+        "kugou": 19,
+        "kurogames": 13,
+        "kuwo": 3,
+        "kyodonews": 9,
+        "lagou": 2,
+        "landian": 7,
+        "lantern": 2,
+        "lanzou": 28,
+        "laracasts": 1,
+        "lark": 88,
+        "lark-global": 31,
+        "lastfm": 4,
+        "lastpass": 3,
+        "launchpad": 5,
+        "lavteam": 1,
+        "le": 13,
+        "lenovo": 58,
+        "lethalhardcore": 2,
+        "letsencrypt": 3,
+        "lg": 10,
+        "lianjia": 5,
+        "liberapay": 2,
+        "libgen": 8,
+        "liepin": 3,
+        "lifewire": 1,
+        "ligastavok": 4,
+        "lighter": 3,
+        "lihkg": 2,
+        "likee": 35,
+        "limelight": 8,
+        "linakesi": 4,
+        "line": 20,
+        "linguee": 2,
+        "linkedin": 12,
+        "linotype": 1,
+        "linux": 1,
+        "linuxdo": 2,
+        "lisiku": 2,
+        "litv": 11,
+        "livejournal": 2,
+        "liveperson": 2,
+        "lizhi": 6,
+        "lkcoffee": 3,
+        "localbitcoins": 2,
+        "localizejs": 3,
+        "logitech": 13,
+        "londonreal": 2,
+        "longbridge": 12,
+        "louisvuitton": 3,
+        "lowiro": 1,
+        "ltn": 2,
+        "lumion": 6,
+        "lysol": 9,
+        "madshi": 4,
+        "mafengwo": 3,
+        "magnit": 4,
+        "mailcom": 4,
+        "mailru": 300,
+        "mailru-group": 300,
+        "mainichi": 10,
+        "manhuagui": 2,
+        "manhuaren": 10,
+        "manorama": 12,
+        "manoto": 2,
+        "manus": 2,
+        "maocloud": 3,
+        "mapbox": 2,
+        "marvel": 10,
+        "mastercard": 184,
+        "masterclass": 1,
+        "matrix": 9,
+        "matters": 4,
+        "mcdonalds": 43,
+        "mdn": 9,
+        "meadjohnson": 6,
+        "mediachinesegroup": 21,
+        "medium": 2,
+        "meduza": 2,
+        "mega": 3,
+        "megafon": 12,
+        "meipian": 3,
+        "meitu": 13,
+        "meituan": 19,
+        "meizu": 6,
+        "messenger": 4,
+        "meta": 557,
+        "metabrainz": 8,
+        "metacritic": 1,
+        "metart": 5,
+        "miaomiaozhe": 2,
+        "microsoft": 750,
+        "microsoft-dev": 74,
+        "microsoft-pki": 6,
+        "midea": 9,
+        "mihoyo": 26,
+        "mihoyo-cn": 17,
+        "mikrotik": 4,
+        "mindbox": 22,
+        "mindgeek": 47,
+        "mindgeek-porn": 46,
+        "mini": 214,
+        "miniso": 36,
+        "miraheze": 1,
+        "missav": 7,
+        "misskey": 34,
+        "misskey-universe": 32,
+        "mit": 4,
+        "mixi": 3,
+        "mobile01": 2,
+        "mocha": 1,
+        "modrinth": 1,
+        "mogujie": 3,
+        "mojang": 6,
+        "moji": 7,
+        "momo": 4,
+        "mongodb": 2,
+        "monotype": 14,
+        "moonvy": 2,
+        "morisawa": 2,
+        "mortein": 11,
+        "mosmetro": 2,
+        "motorola": 25,
+        "movefree": 7,
+        "moxing": 2,
+        "mozilla": 72,
+        "msi": 2,
+        "msn": 21,
+        "mts-ru": 12,
+        "mubi": 2,
+        "mucinex": 8,
+        "mudvod": 10,
+        "muji": 8,
+        "musixmatch": 2,
+        "mvideo": 3,
+        "mxroute": 5,
+        "mydirtyhobby": 2,
+        "myfonts": 2,
+        "myoffice-ru": 2,
+        "myradio": 2,
+        "mytvsuper": 1,
+        "mzed": 1,
+        "n26": 3,
+        "n3ro": 3,
+        "narwal": 2,
+        "nationalgeographic": 4,
+        "naver": 49,
+        "nbcuniversal": 17,
+        "neowin": 2,
+        "netcraze": 5,
+        "netcup": 24,
+        "netease": 54,
+        "netflav": 3,
+        "netflix": 28,
+        "netlify": 10,
+        "neuralink": 1,
+        "newegg": 2,
+        "newgrounds": 2,
+        "newscorp": 152,
+        "newsmax": 4,
+        "nexitally": 3,
+        "nexo": 2,
+        "nexon": 6,
+        "nexusmods": 2,
+        "nga": 4,
+        "nginx": 2,
+        "ngrok": 11,
+        "nhk": 4,
+        "nic-ru": 4,
+        "nicegram": 3,
+        "niconico": 10,
+        "nike": 196,
+        "nikkan-gendai": 2,
+        "nikke": 6,
+        "nikkei": 6,
+        "nintendo": 124,
+        "nist": 2,
+        "nixos": 12,
+        "nodejs": 1,
+        "nodeseek": 7,
+        "noip": 83,
+        "nordstrom": 2,
+        "nordvpn": 2,
+        "notion": 7,
+        "now": 6,
+        "nowcoder": 4,
+        "npmjs": 3,
+        "nudevista": 4,
+        "nurofen": 28,
+        "nutaku": 2,
+        "nvidia": 66,
+        "nyaa": 2,
+        "nypost": 3,
+        "nytimes": 9,
+        "oan": 5,
+        "oculus": 17,
+        "ogury": 3,
+        "ok": 19,
+        "okaapps": 2,
+        "okjike": 5,
+        "okko": 4,
+        "okx": 10,
+        "olevod": 9,
+        "onedrive": 11,
+        "onekey": 4,
+        "oneplus": 8,
+        "ookla-speedtest": 14,
+        "op": 2,
+        "openai": 23,
+        "opencollective": 1,
+        "openjsfoundation": 13,
+        "openrec": 2,
+        "opensourceinsights": 4,
+        "openspeedtest": 2,
+        "openstreetmap": 9,
+        "openweather": 2,
+        "openwrt": 2,
+        "openx": 5,
+        "oppo": 45,
+        "oracle": 19,
+        "oreilly": 6,
+        "organicmaps": 2,
+        "origin": 9,
+        "oschina": 3,
+        "oskelly": 2,
+        "osu": 9,
+        "otpbank": 12,
+        "oup": 29,
+        "overclockers-ru": 12,
+        "ozon": 63,
+        "pagecdn": 2,
+        "panasonic": 5,
+        "pandanet": 2,
+        "paofuyun": 2,
+        "paskoocheh": 1,
+        "pastebin": 1,
+        "patreon": 4,
+        "pawchive": 2,
+        "paypal": 245,
+        "pbs": 1,
+        "pccw": 29,
+        "pchome": 13,
+        "pearson": 93,
+        "peppy": 10,
+        "perl": 5,
+        "perplexity": 5,
+        "petrochina": 4,
+        "pgyer": 3,
+        "phoenix": 6,
+        "picacg": 13,
+        "picsee": 6,
+        "pikpak": 7,
+        "pinduoduo": 7,
+        "pingan": 4,
+        "pingcap": 7,
+        "pinggy": 2,
+        "pingpe": 1,
+        "pingsx": 2,
+        "pinkcore": 2,
+        "pinterest": 52,
+        "piratebay": 4,
+        "pixhost": 1,
+        "pixiv": 11,
+        "pixnet": 9,
+        "playboy": 2,
+        "playcover": 2,
+        "playstation": 4,
+        "plex": 4,
+        "plutotv": 2,
+        "pocketcasts": 2,
+        "poe": 2,
+        "polocloud": 2,
+        "polymer": 2,
+        "polyu": 5,
+        "polyv": 2,
+        "pornhub": 9,
+        "pornpros": 2,
+        "positive-technologies": 3,
+        "postimages": 2,
+        "pptv": 3,
+        "primevideo": 23,
+        "private": 131,
+        "progress": 6,
+        "projectpoi": 4,
+        "projectsekai": 2,
+        "proquest": 2,
+        "protonmail": 9,
+        "pstorage": 1,
+        "ptt": 3,
+        "pubg": 4,
+        "pubmatic": 2,
+        "pugpig": 3,
+        "purikonejp": 4,
+        "python": 6,
+        "qcc": 2,
+        "qcloud": 347,
+        "qianxin": 7,
+        "qihoo360": 112,
+        "qimao": 6,
+        "qingcloud": 6,
+        "qingtingfm": 2,
+        "qiniu": 10,
+        "qixin": 1,
+        "qnap": 8,
+        "qt": 2,
+        "qualcomm": 49,
+        "quantil": 1,
+        "quip": 3,
+        "quora": 6,
+        "qwant": 4,
+        "qweather": 5,
+        "radiko": 3,
+        "raiffeisenbank": 16,
+        "rakuten": 30,
+        "rarbg": 18,
+        "razer": 9,
+        "rb": 457,
+        "reabble": 2,
+        "readthedocs": 4,
+        "reagroup": 32,
+        "realclear": 17,
+        "realitykings": 2,
+        "realtype": 2,
+        "rebrandly": 2,
+        "reddit": 12,
+        "redhat": 2,
+        "redis": 2,
+        "redotpay": 5,
+        "redtube": 5,
+        "regru": 3,
+        "remnawave": 4,
+        "renren": 2,
+        "reurl": 1,
+        "reuters": 4,
+        "rferl": 30,
+        "riot": 54,
+        "roblox": 48,
+        "rockstar": 7,
+        "roku": 6,
+        "rossiyasegodnya": 17,
+        "rostelecom": 9,
+        "rsshub": 1,
+        "rsshub-3rd": 19,
+        "rt": 112,
+        "rthk": 2,
+        "ruanmei": 9,
+        "ruby": 2,
+        "rubychina": 2,
+        "ruleoflaw": 2,
+        "rumble": 2,
+        "rust": 4,
+        "ruten": 2,
+        "rutracker": 9,
+        "rutube": 4,
+        "safepal": 2,
+        "sakurafrp": 58,
+        "salesforce": 41,
+        "samsung": 27,
+        "sankei": 30,
+        "sb": 8,
+        "sber": 98,
+        "scala": 2,
+        "scaleflex": 3,
+        "scenesource": 3,
+        "schoopia": 2,
+        "schwab": 7,
+        "sci": 2,
+        "sci-hub": 6,
+        "sciencedirect": 2,
+        "scmp": 2,
+        "scp": 3,
+        "seasun": 8,
+        "secom": 3,
+        "sectigo": 21,
+        "segment": 4,
+        "segmentfault": 2,
+        "sehuatang": 2,
+        "selectel": 24,
+        "sentry": 4,
+        "servicepipe": 2,
+        "setapp": 1,
+        "setn": 2,
+        "sf-express": 15,
+        "shadowsockscom": 2,
+        "shanbay": 2,
+        "sharethis": 1,
+        "shireyishunjian": 2,
+        "shopee": 21,
+        "shopify": 8,
+        "shorturl": 1,
+        "showtimeanytime": 2,
+        "shuqi": 11,
+        "signal": 8,
+        "sina": 58,
+        "singtaonewscorp": 18,
+        "sinopec": 5,
+        "sitepoint": 1,
+        "skillshare": 1,
+        "sky": 13,
+        "skyeng": 2,
+        "skyperfect": 7,
+        "slack": 11,
+        "slideshare": 3,
+        "sling": 5,
+        "smartone": 15,
+        "smena": 1,
+        "smtiaojiaoshi": 2,
+        "smzdm": 4,
+        "snap": 9,
+        "snapcraft": 2,
+        "snapp": 18,
+        "snk": 3,
+        "snodehome": 3,
+        "softbank": 20,
+        "softether": 2,
+        "sogou": 40,
+        "sohu": 32,
+        "sokolov": 2,
+        "sonemic": 6,
+        "sony": 115,
+        "sonypictures": 14,
+        "soundcloud": 3,
+        "soundofhope": 8,
+        "sourceforge": 4,
+        "sourcehut": 2,
+        "soyjakparty": 2,
+        "spacemail": 1,
+        "spaceship": 2,
+        "spacex": 2,
+        "spankbang": 3,
+        "speedtest": 14,
+        "spiceworks": 2,
+        "spotify": 28,
+        "springer": 5,
+        "squareup": 12,
+        "squirrelvpn": 2,
+        "sslcom": 2,
+        "ssrcloud": 3,
+        "st": 2,
+        "stackexchange": 25,
+        "stackpath": 2,
+        "stage1st": 2,
+        "standardchartered": 4,
+        "starbucks": 67,
+        "starfieldtech": 1,
+        "starplus": 6,
+        "startpage": 2,
+        "starworld": 25,
+        "staticfile": 2,
+        "steam": 60,
+        "steaminventoryhelper": 3,
+        "steamunlocked": 1,
+        "steemit": 1,
+        "sto-express": 6,
+        "straitsx": 3,
+        "streamable": 2,
+        "strepsils": 33,
+        "strikingly": 3,
+        "stripe": 8,
+        "subscene": 2,
+        "suishouji": 5,
+        "sumkoo": 10,
+        "suning": 6,
+        "supercell": 23,
+        "supersonic": 4,
+        "surflite": 2,
+        "suruga-ya": 2,
+        "svp": 1,
+        "swag": 3,
+        "swift": 4,
+        "swisssign": 31,
+        "sxl": 4,
+        "symantec": 2,
+        "symantec-pki": 5,
+        "synology": 20,
+        "t2-ru": 3,
+        "taboola": 1,
+        "taihe": 6,
+        "taikang": 4,
+        "tailscale": 3,
+        "take-two": 17,
+        "talkatone": 9,
+        "taomee": 2,
+        "taptap": 7,
+        "target": 3,
+        "taylorfrancis": 4,
+        "tbank-ru": 112,
+        "tcl": 12,
+        "teambition": 3,
+        "teamspeak": 3,
+        "teamviewer": 5,
+        "technogym": 8,
+        "techpowerup": 2,
+        "techtimes": 1,
+        "ted": 2,
+        "telegram": 21,
+        "telekom": 3,
+        "temp-mail": 1,
+        "tencent": 683,
+        "tencent-dev": 16,
+        "tencent-games": 86,
+        "tencent-tme": 45,
+        "tendcloud": 5,
+        "terabox": 7,
+        "termux": 3,
+        "tesla": 11,
+        "test": 1,
+        "test-ipv6": 25,
+        "tex": 4,
+        "tgbus": 1,
+        "theboringcompany": 1,
+        "theguardian": 9,
+        "theinitium": 2,
+        "thelinuxfoundation": 17,
+        "theporndude": 7,
+        "thescoregroup": 111,
+        "thesun": 7,
+        "thetimes": 9,
+        "thetype": 3,
+        "thomsonreuters": 32,
+        "threads": 2,
+        "tiancity": 2,
+        "tianyancha": 2,
+        "tidal": 3,
+        "tidelift": 1,
+        "tiktok": 37,
+        "tilda": 6,
+        "timeweb": 3,
+        "tinyurl": 1,
+        "tld-!cn": 829,
+        "tld-cn": 49,
+        "tld-opennic": 28,
+        "tld-ru": 11,
+        "tmdb": 4,
+        "tmtpost": 8,
+        "tokyo-sports": 2,
+        "tokyo-toshokan": 3,
+        "tonec": 3,
+        "tongcheng": 8,
+        "tongfang": 3,
+        "tor": 3,
+        "torproject": 1,
+        "trackernetwork": 3,
+        "trae": 12,
+        "translatewiki": 2,
+        "trello": 2,
+        "trustasia": 11,
+        "trustwallet": 1,
+        "trustwave": 1,
+        "truyen-hentai": 3,
+        "tsquare": 1,
+        "tube8": 2,
+        "tubi": 4,
+        "tumblr": 1,
+        "tutanota": 6,
+        "tvb": 14,
+        "tvdb": 1,
+        "tver": 5,
+        "twca": 1,
+        "twilio": 3,
+        "twitch": 34,
+        "twitter": 24,
+        "typekit": 2,
+        "typenetwork": 1,
+        "typography": 1,
+        "uber": 3,
+        "ubiquiti": 13,
+        "ubisoft": 31,
+        "ubuntu": 4,
+        "ubuntukylin": 2,
+        "uc": 9,
+        "ucloud": 54,
+        "ucoz": 37,
+        "udacity": 1,
+        "udemy": 2,
+        "udn": 4,
+        "umeng": 32,
+        "unext": 4,
+        "unionpay": 14,
+        "unity": 10,
+        "unitychina": 9,
+        "uoliv": 4,
+        "upai": 6,
+        "usersdrive": 2,
+        "uu-chat": 22,
+        "v2ray": 3,
+        "v8": 2,
+        "vancl": 3,
+        "vanish": 47,
+        "vaptcha": 2,
+        "veet": 45,
+        "vercel": 27,
+        "verisign": 33,
+        "verisign-pki": 50,
+        "verizon": 15,
+        "vgtime": 1,
+        "viber": 6,
+        "vilavpn": 9,
+        "vimeo": 17,
+        "visa": 160,
+        "visualarts": 14,
+        "viu": 7,
+        "vivo": 8,
+        "vixengroup": 9,
+        "vk": 52,
+        "vmware": 104,
+        "voanews": 48,
+        "vodafone": 9,
+        "vokino": 22,
+        "volcengine": 279,
+        "volmoe": 2,
+        "volvo": 211,
+        "voxmedia": 16,
+        "vpngate": 3,
+        "vrcdn": 3,
+        "vrchat": 3,
+        "vrzwk": 4,
+        "vultr": 1,
+        "w3schools": 1,
+        "wallhaven": 2,
+        "walmart": 10,
+        "wanfang": 2,
+        "wangsu": 29,
+        "wanmei": 14,
+        "wantmedia": 14,
+        "wargaming": 11,
+        "wasu": 6,
+        "watchout": 2,
+        "wbgames": 6,
+        "weathercn": 5,
+        "webex": 16,
+        "webnovel": 1,
+        "webtype": 1,
+        "weiphone": 4,
+        "wenshushu": 12,
+        "westerndigital": 23,
+        "whatsapp": 13,
+        "wholefoodsmarket": 7,
+        "whoosh": 2,
+        "wikidot": 2,
+        "wikihow": 1,
+        "wikimedia": 18,
+        "wildberries": 114,
+        "win-extra": 355,
+        "win-spy": 327,
+        "win-update": 364,
+        "windsurf": 4,
+        "windy": 1,
+        "wink": 5,
+        "winline": 3,
+        "wise": 2,
+        "wisekey": 4,
+        "wish": 1,
+        "wistia": 3,
+        "wiwide": 2,
+        "wix": 9,
+        "wjx": 4,
+        "wolai": 3,
+        "woolite": 7,
+        "wordpress": 10,
+        "wps": 13,
+        "wsj": 13,
+        "wwe": 2,
+        "wynd": 2,
+        "x": 27,
+        "x5": 35,
+        "xai": 4,
+        "xbox": 45,
+        "xd": 12,
+        "xda": 4,
+        "xdty": 1,
+        "xedge": 4,
+        "xhamster": 19,
+        "xiaoheihe": 8,
+        "xiaohongshu": 12,
+        "xiaomi": 73,
+        "xiaomi-ai": 3,
+        "xiaomi-iot": 4,
+        "xiaoyuzhou": 5,
+        "ximalaya": 5,
+        "xingkongwuxianmedia": 19,
+        "xingrz": 1,
+        "xnxx": 5,
+        "xtom": 12,
+        "xueersi": 12,
+        "xueqiu": 5,
+        "xunlei": 13,
+        "xvideos": 5,
+        "yahoo": 178,
+        "yandex": 132,
+        "ycombinator": 2,
+        "ymtc": 3,
+        "ynet": 3,
+        "ynoproject": 1,
+        "yokaverse": 7,
+        "yomiuri": 13,
+        "yostar": 9,
+        "youjizz": 2,
+        "youku": 31,
+        "youmind": 3,
+        "youporn": 8,
+        "youquan": 10,
+        "youtube": 178,
+        "youzan": 7,
+        "yto-express": 43,
+        "yuanbei": 5,
+        "yuanfudao": 12,
+        "yuewen": 22,
+        "yuketang": 2,
+        "yundaex": 9,
+        "yunfanjiasu": 8,
+        "yunlaopo": 6,
+        "yy": 4,
+        "z-library": 48,
+        "z3x-team": 2,
+        "zaobao": 3,
+        "zb": 4,
+        "zdns": 12,
+        "zee": 22,
+        "zeetv": 9,
+        "zendesk": 6,
+        "zeplin": 2,
+        "zhangtao": 8,
+        "zhihu": 6,
+        "zhimeishe": 5,
+        "zhubajie": 5,
+        "ziroom": 2,
+        "zoho": 13,
+        "zoom": 3,
+        "zotero": 1,
+        "zscaler": 17,
+        "zte": 7,
+        "zto-express": 13,
+        "zuoyebang": 5,
+        "zynga": 3
+      },
+      "categoryAttributeSets": {
+        "36kr": [
+          [
+            "ads"
+          ]
+        ],
+        "acer": [
+          [
+            "cn"
+          ]
+        ],
+        "acfun": [
+          [
+            "ads"
+          ]
+        ],
+        "adidas": [
+          [
+            "cn"
+          ]
+        ],
+        "adjust": [
+          [
+            "ads"
+          ]
+        ],
+        "adobe": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "aerogard": [
+          [
+            "cn"
+          ]
+        ],
+        "airchina": [
+          [
+            "!cn"
+          ]
+        ],
+        "airwick": [
+          [
+            "cn"
+          ]
+        ],
+        "akamai": [
+          [
+            "cn"
+          ]
+        ],
+        "alibaba": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "alibabacloud": [
+          [
+            "!cn"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "aliyun": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "alphabet": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "amap": [
+          [
+            "ads"
+          ]
+        ],
+        "amazon": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "amd": [
+          [
+            "cn"
+          ]
+        ],
+        "amp": [
+          [
+            "cn"
+          ]
+        ],
+        "amplitude": [
+          [
+            "ads"
+          ]
+        ],
+        "anker": [
+          [
+            "!cn"
+          ]
+        ],
+        "apple": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "apple-dev": [
+          [
+            "cn"
+          ]
+        ],
+        "apple-music": [
+          [
+            "cn"
+          ]
+        ],
+        "apple-pki": [
+          [
+            "cn"
+          ]
+        ],
+        "apple-podcasts": [
+          [
+            "cn"
+          ]
+        ],
+        "asus": [
+          [
+            "cn"
+          ]
+        ],
+        "att": [
+          [
+            "cn"
+          ]
+        ],
+        "auxgroup": [
+          [
+            "!cn"
+          ]
+        ],
+        "avito": [
+          [
+            "ads"
+          ]
+        ],
+        "aws": [
+          [
+            "cn"
+          ]
+        ],
+        "aws-cn": [
+          [
+            "cn"
+          ]
+        ],
+        "azure": [
+          [
+            "cn"
+          ]
+        ],
+        "baidu": [
+          [
+            "ads"
+          ]
+        ],
+        "beats": [
+          [
+            "cn"
+          ]
+        ],
+        "bestbuy": [
+          [
+            "cn"
+          ]
+        ],
+        "bilibili": [
+          [
+            "!cn"
+          ]
+        ],
+        "bilibili-cdn": [
+          [
+            "!cn"
+          ]
+        ],
+        "bing": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "bluearchive": [
+          [
+            "cn"
+          ]
+        ],
+        "bmw": [
+          [
+            "cn"
+          ]
+        ],
+        "boc": [
+          [
+            "!cn"
+          ]
+        ],
+        "booking": [
+          [
+            "cn"
+          ]
+        ],
+        "bridgestone": [
+          [
+            "cn"
+          ]
+        ],
+        "broadcom": [
+          [
+            "cn"
+          ]
+        ],
+        "bytedance": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "bytedance-ai-!cn": [
+          [
+            "!cn"
+          ]
+        ],
+        "cainiao": [
+          [
+            "ads"
+          ]
+        ],
+        "calgoncarbon": [
+          [
+            "cn"
+          ]
+        ],
+        "canon": [
+          [
+            "cn"
+          ]
+        ],
+        "carrotquest": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ads": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ai-!cn": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "category-ai-chat-!cn": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "category-antivirus": [
+          [
+            "cn"
+          ]
+        ],
+        "category-bank-ru": [
+          [
+            "ads"
+          ]
+        ],
+        "category-cas": [
+          [
+            "cn"
+          ]
+        ],
+        "category-cdn-!cn": [
+          [
+            "cn"
+          ]
+        ],
+        "category-cdn-cn": [
+          [
+            "cn"
+          ]
+        ],
+        "category-communication": [
+          [
+            "ads"
+          ]
+        ],
+        "category-companies": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-cryptocurrency": [
+          [
+            "cn"
+          ]
+        ],
+        "category-dev": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-dev-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ecommerce": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-ecommerce-ru": [
+          [
+            "ads"
+          ]
+        ],
+        "category-education-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-enhance-gaming": [
+          [
+            "cn"
+          ]
+        ],
+        "category-entertainment": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-entertainment-cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-finance": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-food-cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-forums": [
+          [
+            "ads"
+          ]
+        ],
+        "category-game-platforms-download": [
+          [
+            "cn"
+          ]
+        ],
+        "category-games": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-games-!cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-games-cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-httpdns-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ip-geo-detect": [
+          [
+            "!cn"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-logistics-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-media": [
+          [
+            "cn"
+          ]
+        ],
+        "category-media-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-netdisk-!cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ntp": [
+          [
+            "cn"
+          ]
+        ],
+        "category-ntp-cn": [
+          [
+            "cn"
+          ]
+        ],
+        "category-porn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-pt": [
+          [
+            "!cn"
+          ]
+        ],
+        "category-remote-control": [
+          [
+            "cn"
+          ]
+        ],
+        "category-retail-ru": [
+          [
+            "ads"
+          ]
+        ],
+        "category-ru": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-social-media-!cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-social-media-cn": [
+          [
+            "ads"
+          ]
+        ],
+        "category-speedtest": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "category-tech-media": [
+          [
+            "cn"
+          ]
+        ],
+        "ccb": [
+          [
+            "!cn"
+          ]
+        ],
+        "cctv": [
+          [
+            "ads"
+          ]
+        ],
+        "chinamobile": [
+          [
+            "!cn"
+          ]
+        ],
+        "chinatelecom": [
+          [
+            "!cn"
+          ]
+        ],
+        "chinaunicom": [
+          [
+            "!cn"
+          ]
+        ],
+        "cisco": [
+          [
+            "cn"
+          ]
+        ],
+        "citic": [
+          [
+            "!cn"
+          ]
+        ],
+        "clearasil": [
+          [
+            "cn"
+          ]
+        ],
+        "clearbit": [
+          [
+            "ads"
+          ]
+        ],
+        "cloudflare": [
+          [
+            "cn"
+          ]
+        ],
+        "cloudflare-cn": [
+          [
+            "cn"
+          ]
+        ],
+        "cmb": [
+          [
+            "!cn"
+          ]
+        ],
+        "connectivity-check": [
+          [
+            "cn"
+          ]
+        ],
+        "ctexcel": [
+          [
+            "!cn"
+          ]
+        ],
+        "ctrip": [
+          [
+            "!cn"
+          ]
+        ],
+        "deepin": [
+          [
+            "!cn"
+          ]
+        ],
+        "dell": [
+          [
+            "cn"
+          ]
+        ],
+        "dettol": [
+          [
+            "cn"
+          ]
+        ],
+        "dewu": [
+          [
+            "!cn"
+          ]
+        ],
+        "didi": [
+          [
+            "!cn"
+          ]
+        ],
+        "digicert": [
+          [
+            "cn"
+          ]
+        ],
+        "disney": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "dmm": [
+          [
+            "ads"
+          ]
+        ],
+        "dola": [
+          [
+            "!cn"
+          ]
+        ],
+        "duolingo": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "durex": [
+          [
+            "cn"
+          ]
+        ],
+        "dzen": [
+          [
+            "ads"
+          ]
+        ],
+        "eastmoney": [
+          [
+            "!cn"
+          ]
+        ],
+        "ebay": [
+          [
+            "cn"
+          ]
+        ],
+        "eleme": [
+          [
+            "ads"
+          ]
+        ],
+        "entrust": [
+          [
+            "cn"
+          ]
+        ],
+        "epicgames": [
+          [
+            "cn"
+          ]
+        ],
+        "eset": [
+          [
+            "cn"
+          ]
+        ],
+        "espressif": [
+          [
+            "!cn"
+          ]
+        ],
+        "facebook": [
+          [
+            "ads"
+          ]
+        ],
+        "familymart": [
+          [
+            "cn"
+          ]
+        ],
+        "farfetch": [
+          [
+            "cn"
+          ]
+        ],
+        "fflogs": [
+          [
+            "cn"
+          ]
+        ],
+        "finish": [
+          [
+            "cn"
+          ]
+        ],
+        "firebase": [
+          [
+            "cn"
+          ]
+        ],
+        "fqnovel": [
+          [
+            "ads"
+          ]
+        ],
+        "gamersky": [
+          [
+            "ads"
+          ]
+        ],
+        "geolocation-cn": [
+          [
+            "cn"
+          ]
+        ],
+        "gigabyte": [
+          [
+            "cn"
+          ]
+        ],
+        "github": [
+          [
+            "ads"
+          ]
+        ],
+        "github-copilot": [
+          [
+            "ads"
+          ]
+        ],
+        "globalsign": [
+          [
+            "cn"
+          ]
+        ],
+        "gmo-internet": [
+          [
+            "cn"
+          ]
+        ],
+        "gog": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "google": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "google-play": [
+          [
+            "cn"
+          ]
+        ],
+        "google-trust-services": [
+          [
+            "cn"
+          ]
+        ],
+        "googlefcm": [
+          [
+            "!cn"
+          ]
+        ],
+        "gucci": [
+          [
+            "cn"
+          ]
+        ],
+        "hetzner": [
+          [
+            "ads"
+          ]
+        ],
+        "hketgroup": [
+          [
+            "cn"
+          ]
+        ],
+        "hm": [
+          [
+            "cn"
+          ]
+        ],
+        "hoyoverse": [
+          [
+            "ads"
+          ]
+        ],
+        "hp": [
+          [
+            "cn"
+          ]
+        ],
+        "huawei": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "huaweicloud": [
+          [
+            "!cn"
+          ]
+        ],
+        "hunantv": [
+          [
+            "ads"
+          ]
+        ],
+        "icbc": [
+          [
+            "!cn"
+          ]
+        ],
+        "icloud": [
+          [
+            "cn"
+          ]
+        ],
+        "ifast": [
+          [
+            "cn"
+          ]
+        ],
+        "ikea": [
+          [
+            "cn"
+          ]
+        ],
+        "instagram": [
+          [
+            "ads"
+          ]
+        ],
+        "intel": [
+          [
+            "cn"
+          ]
+        ],
+        "ipip": [
+          [
+            "!cn"
+          ]
+        ],
+        "iqiyi": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "itunes": [
+          [
+            "cn"
+          ]
+        ],
+        "jd": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "jetbrains": [
+          [
+            "cn"
+          ]
+        ],
+        "kaspersky": [
+          [
+            "cn"
+          ]
+        ],
+        "kindle": [
+          [
+            "cn"
+          ]
+        ],
+        "kontur": [
+          [
+            "ads"
+          ]
+        ],
+        "kuaishou": [
+          [
+            "ads"
+          ]
+        ],
+        "kugou": [
+          [
+            "ads"
+          ]
+        ],
+        "kurogames": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "le": [
+          [
+            "ads"
+          ]
+        ],
+        "linkedin": [
+          [
+            "cn"
+          ]
+        ],
+        "louisvuitton": [
+          [
+            "cn"
+          ]
+        ],
+        "lysol": [
+          [
+            "cn"
+          ]
+        ],
+        "mailru": [
+          [
+            "ads"
+          ]
+        ],
+        "mailru-group": [
+          [
+            "ads"
+          ]
+        ],
+        "mapbox": [
+          [
+            "cn"
+          ]
+        ],
+        "mastercard": [
+          [
+            "cn"
+          ]
+        ],
+        "mcdonalds": [
+          [
+            "cn"
+          ]
+        ],
+        "meadjohnson": [
+          [
+            "cn"
+          ]
+        ],
+        "meta": [
+          [
+            "ads"
+          ]
+        ],
+        "microsoft": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "microsoft-dev": [
+          [
+            "cn"
+          ]
+        ],
+        "mihoyo": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "mihoyo-cn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "mindbox": [
+          [
+            "ads"
+          ]
+        ],
+        "miniso": [
+          [
+            "cn"
+          ]
+        ],
+        "moji": [
+          [
+            "ads"
+          ]
+        ],
+        "mortein": [
+          [
+            "cn"
+          ]
+        ],
+        "movefree": [
+          [
+            "cn"
+          ]
+        ],
+        "mozilla": [
+          [
+            "ads"
+          ]
+        ],
+        "msn": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "mts-ru": [
+          [
+            "ads"
+          ]
+        ],
+        "muji": [
+          [
+            "cn"
+          ]
+        ],
+        "netease": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "nicegram": [
+          [
+            "ads"
+          ]
+        ],
+        "nike": [
+          [
+            "cn"
+          ]
+        ],
+        "nintendo": [
+          [
+            "cn"
+          ]
+        ],
+        "nurofen": [
+          [
+            "cn"
+          ]
+        ],
+        "nvidia": [
+          [
+            "cn"
+          ]
+        ],
+        "ogury": [
+          [
+            "ads"
+          ]
+        ],
+        "okaapps": [
+          [
+            "cn"
+          ]
+        ],
+        "okx": [
+          [
+            "cn"
+          ]
+        ],
+        "oneplus": [
+          [
+            "!cn"
+          ]
+        ],
+        "ookla-speedtest": [
+          [
+            "ads"
+          ]
+        ],
+        "openai": [
+          [
+            "ads"
+          ]
+        ],
+        "openjsfoundation": [
+          [
+            "cn"
+          ]
+        ],
+        "openx": [
+          [
+            "ads"
+          ]
+        ],
+        "oppo": [
+          [
+            "!cn"
+          ]
+        ],
+        "oreilly": [
+          [
+            "cn"
+          ]
+        ],
+        "ozon": [
+          [
+            "ads"
+          ]
+        ],
+        "panasonic": [
+          [
+            "cn"
+          ]
+        ],
+        "paypal": [
+          [
+            "cn"
+          ]
+        ],
+        "pearson": [
+          [
+            "cn"
+          ]
+        ],
+        "picacg": [
+          [
+            "ads"
+          ]
+        ],
+        "pikpak": [
+          [
+            "ads"
+          ]
+        ],
+        "pingan": [
+          [
+            "!cn"
+          ]
+        ],
+        "pixiv": [
+          [
+            "ads"
+          ]
+        ],
+        "primevideo": [
+          [
+            "cn"
+          ]
+        ],
+        "qcloud": [
+          [
+            "!cn"
+          ]
+        ],
+        "qihoo360": [
+          [
+            "ads"
+          ]
+        ],
+        "qnap": [
+          [
+            "cn"
+          ]
+        ],
+        "qualcomm": [
+          [
+            "cn"
+          ]
+        ],
+        "razer": [
+          [
+            "cn"
+          ]
+        ],
+        "rb": [
+          [
+            "cn"
+          ]
+        ],
+        "reabble": [
+          [
+            "cn"
+          ]
+        ],
+        "riot": [
+          [
+            "cn"
+          ]
+        ],
+        "rostelecom": [
+          [
+            "ads"
+          ]
+        ],
+        "samsung": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "sber": [
+          [
+            "ads"
+          ]
+        ],
+        "sectigo": [
+          [
+            "cn"
+          ]
+        ],
+        "segment": [
+          [
+            "ads"
+          ]
+        ],
+        "shopee": [
+          [
+            "cn"
+          ]
+        ],
+        "sina": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "sky": [
+          [
+            "cn"
+          ]
+        ],
+        "snap": [
+          [
+            "ads"
+          ]
+        ],
+        "sogou": [
+          [
+            "ads"
+          ]
+        ],
+        "sohu": [
+          [
+            "ads"
+          ]
+        ],
+        "speedtest": [
+          [
+            "ads"
+          ]
+        ],
+        "spotify": [
+          [
+            "ads"
+          ]
+        ],
+        "sslcom": [
+          [
+            "cn"
+          ]
+        ],
+        "st": [
+          [
+            "cn"
+          ]
+        ],
+        "starbucks": [
+          [
+            "cn"
+          ]
+        ],
+        "steam": [
+          [
+            "cn"
+          ]
+        ],
+        "strepsils": [
+          [
+            "cn"
+          ]
+        ],
+        "supersonic": [
+          [
+            "ads"
+          ]
+        ],
+        "swift": [
+          [
+            "cn"
+          ]
+        ],
+        "synology": [
+          [
+            "cn"
+          ]
+        ],
+        "taptap": [
+          [
+            "!cn"
+          ]
+        ],
+        "tcl": [
+          [
+            "ads"
+          ]
+        ],
+        "teamviewer": [
+          [
+            "cn"
+          ]
+        ],
+        "tencent": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "tencent-dev": [
+          [
+            "ads"
+          ]
+        ],
+        "tencent-tme": [
+          [
+            "ads"
+          ]
+        ],
+        "tendcloud": [
+          [
+            "ads"
+          ]
+        ],
+        "tesla": [
+          [
+            "cn"
+          ]
+        ],
+        "test-ipv6": [
+          [
+            "cn"
+          ]
+        ],
+        "thelinuxfoundation": [
+          [
+            "cn"
+          ]
+        ],
+        "thetype": [
+          [
+            "cn"
+          ]
+        ],
+        "tiktok": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "tvb": [
+          [
+            "cn"
+          ]
+        ],
+        "twitter": [
+          [
+            "ads"
+          ]
+        ],
+        "ubiquiti": [
+          [
+            "cn"
+          ]
+        ],
+        "uc": [
+          [
+            "ads"
+          ]
+        ],
+        "umeng": [
+          [
+            "ads"
+          ]
+        ],
+        "unity": [
+          [
+            "ads"
+          ]
+        ],
+        "unitychina": [
+          [
+            "ads"
+          ]
+        ],
+        "vanish": [
+          [
+            "cn"
+          ]
+        ],
+        "veet": [
+          [
+            "cn"
+          ]
+        ],
+        "visa": [
+          [
+            "cn"
+          ]
+        ],
+        "vivo": [
+          [
+            "!cn"
+          ]
+        ],
+        "vk": [
+          [
+            "ads"
+          ]
+        ],
+        "vmware": [
+          [
+            "cn"
+          ]
+        ],
+        "volvo": [
+          [
+            "cn"
+          ]
+        ],
+        "walmart": [
+          [
+            "cn"
+          ]
+        ],
+        "webex": [
+          [
+            "cn"
+          ]
+        ],
+        "webnovel": [
+          [
+            "!cn"
+          ]
+        ],
+        "westerndigital": [
+          [
+            "cn"
+          ]
+        ],
+        "whatsapp": [
+          [
+            "ads"
+          ]
+        ],
+        "wildberries": [
+          [
+            "ads"
+          ]
+        ],
+        "woolite": [
+          [
+            "cn"
+          ]
+        ],
+        "x": [
+          [
+            "ads"
+          ]
+        ],
+        "x5": [
+          [
+            "ads"
+          ]
+        ],
+        "xbox": [
+          [
+            "cn"
+          ]
+        ],
+        "xd": [
+          [
+            "!cn"
+          ]
+        ],
+        "xhamster": [
+          [
+            "ads"
+          ]
+        ],
+        "xiaohongshu": [
+          [
+            "!cn"
+          ]
+        ],
+        "xiaomi": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "ximalaya": [
+          [
+            "ads"
+          ]
+        ],
+        "yahoo": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "yandex": [
+          [
+            "ads"
+          ]
+        ],
+        "yostar": [
+          [
+            "cn"
+          ]
+        ],
+        "youku": [
+          [
+            "!cn"
+          ],
+          [
+            "ads"
+          ]
+        ],
+        "youtube": [
+          [
+            "ads"
+          ],
+          [
+            "cn"
+          ]
+        ],
+        "yuewen": [
+          [
+            "!cn"
+          ]
+        ],
+        "zhihu": [
+          [
+            "ads"
+          ]
+        ],
+        "zuoyebang": [
+          [
+            "ads"
+          ]
+        ]
+      },
+      "totalRecordCount": 515922,
+      "requiredRecordCount": 2160,
+      "requiredCategories": {
+        "apple": {
+          "recordCount": 1792,
+          "encodedEntryBytes": 45159,
+          "domainValueBytes": 31987,
+          "attributeCount": 301,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 1541,
+            "full": 251
+          }
+        },
+        "blizzard": {
+          "recordCount": 25,
+          "encodedEntryBytes": 629,
+          "domainValueBytes": 469,
+          "attributeCount": 0,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 16,
+            "full": 9
+          }
+        },
+        "ea": {
+          "recordCount": 165,
+          "encodedEntryBytes": 3658,
+          "domainValueBytes": 2664,
+          "attributeCount": 0,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 159,
+            "full": 6
+          }
+        },
+        "epicgames": {
+          "recordCount": 33,
+          "encodedEntryBytes": 792,
+          "domainValueBytes": 567,
+          "attributeCount": 2,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 3,
+            "domain": 30,
+            "full": 0
+          }
+        },
+        "riot": {
+          "recordCount": 54,
+          "encodedEntryBytes": 1149,
+          "domainValueBytes": 803,
+          "attributeCount": 2,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 53,
+            "full": 1
+          }
+        },
+        "steam": {
+          "recordCount": 60,
+          "encodedEntryBytes": 1732,
+          "domainValueBytes": 1229,
+          "attributeCount": 17,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 41,
+            "full": 19
+          }
+        },
+        "ubisoft": {
+          "recordCount": 31,
+          "encodedEntryBytes": 970,
+          "domainValueBytes": 775,
+          "attributeCount": 0,
+          "domainTypes": {
+            "substring": 0,
+            "regex": 0,
+            "domain": 4,
+            "full": 27
+          }
+        }
+      },
+      "largestCategories": [
+        {
+          "code": "category-ads-all",
+          "recordCount": 186154
+        },
+        {
+          "code": "cn",
+          "recordCount": 111361
+        },
+        {
+          "code": "china-list",
+          "recordCount": 110619
+        },
+        {
+          "code": "geolocation-!cn",
+          "recordCount": 27259
+        },
+        {
+          "code": "category-companies",
+          "recordCount": 8618
+        },
+        {
+          "code": "category-porn",
+          "recordCount": 6660
+        },
+        {
+          "code": "geolocation-cn",
+          "recordCount": 5388
+        },
+        {
+          "code": "gfw",
+          "recordCount": 4372
+        },
+        {
+          "code": "category-entertainment",
+          "recordCount": 2139
+        },
+        {
+          "code": "apple",
+          "recordCount": 1792
+        }
+      ]
+    }
+  }
+}
