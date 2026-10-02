@@ -5,6 +5,9 @@
       "vexvpn"
     ]
   },
+  "access": {
+    "url": "https://my.vexvpn.app/"
+  },
   "geodata": {
     "release": "202610010125",
     "manifest": {
