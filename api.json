@@ -2,11 +2,11 @@
   "version": 1,
   "subscriptions": {
     "filters": [
-      "vexvpn"
+      "vexvpn.app"
     ]
   },
   "access": {
-    "url": ""
+    "url": "https://my.vexvpn.app/"
   },
   "geodata": {
     "release": "202610042206",
