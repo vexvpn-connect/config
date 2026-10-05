@@ -6,25 +6,25 @@
     ]
   },
   "access": {
-    "url": ""
+    "url": "https://my.vexvpn.app/"
   },
   "geodata": {
-    "release": "202610010125",
+    "release": "202610042206",
     "manifest": {
-      "url": "https://raw.githubusercontent.com/vexvpn-connect/config/main/geodata/202610010125/manifest.json",
+      "url": "https://raw.githubusercontent.com/vexvpn-connect/config/main/geodata/202610042206/manifest.json",
       "size": 71233,
-      "sha256": "302d7d23c1cc107526a3d1cad6665f783542866778a59adeba3445f5330c1960"
+      "sha256": "e3402eb7b977626f2b6929914f6c02e2ee813838f3ff310d6b4428d5cf738e55"
     },
     "files": {
       "geoip.dat": {
-        "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202610010125/geoip.dat",
-        "size": 16514644,
-        "sha256": "3e21484fe4b72d788439e6f16a29bf7967892dd9e82f17e087608837cb260639"
+        "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202610042206/geoip.dat",
+        "size": 16515432,
+        "sha256": "391b522361c52804e486a98b53d97f3d9c1d3e4e4217bb34954774a0b456b9fd"
       },
       "geosite.dat": {
-        "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202610010125/geosite.dat",
-        "size": 10984134,
-        "sha256": "ff2daae83265b9892a0cab7a7a6a8ac3d7ed29e34527511f795e3322c9122671"
+        "url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202610042206/geosite.dat",
+        "size": 11014419,
+        "sha256": "d4e197147c1017129a906a7f155050ccde0b291cf376f787071af3e805cc7d2c"
       }
     }
   }
